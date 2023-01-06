@@ -66,7 +66,7 @@ def scan(target, ports):
     """
     Receiving ip address or website and list with ports.
     It will check if it is IP or website and send to scan_port() for further action.
-    If will check if the list has one or multiple ports.
+    It will check if the list has one or multiple ports.
     Depend on the above check, it will decide if the user wants to scan one ot multiples ports.
     :param target: IP address/website
     :param ports: list with port/s
