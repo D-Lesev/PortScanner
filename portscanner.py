@@ -11,3 +11,5 @@ try:
     print("[+] Port 80 is open")
 except:
     print("[-] Port 80 is closed")
+
+    print("Yesss")
